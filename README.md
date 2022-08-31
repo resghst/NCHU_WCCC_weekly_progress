@@ -1,6 +1,6 @@
 # NCHU_WCCC_weekly_progress
 ### 以下是碩士在學期間的周進度：
-### 常規的進度是一周要讀一篇論文做呈報告，其中有幾周是在做其餘研究。<br>
+### 常規的進度是一周要讀一篇論文做成報告，其中有幾周是在做其餘研究。
 ### （像是研究藍芽規格、嵌入式框架研究、基礎知識學習、投稿論文撰寫與畢業論文撰寫）
 ### 檔案連結：
 ### https://drive.google.com/drive/folders/15CMXmRRn5JqpiFRa_zTFFmjwhGvCzgqK?usp=sharing
